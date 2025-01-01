@@ -1,3 +1,4 @@
-flask
-rembg
-pillow
+flask==2.0.1
+rembg==2.0.50
+onnxruntime==1.15.1
+Pillow==9.0.0
