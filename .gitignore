@@ -1,3 +1,5 @@
 node_modules
+
 dist
-o2net.onnx
+
+u2net.onnx
